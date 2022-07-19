@@ -1,0 +1,28 @@
+#container{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 100%;
+}
+
+.listContainer{
+  width: 500px;
+  height: 500px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.list{
+  height: 80%;
+}
+
+h1{
+  height: 10%;
+}
+
+.inputs{
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
